@@ -23,3 +23,12 @@
     left: 50%;
     transform: translateX(-50%);
 }
+
+
+
+.content {
+    background-color: #121212;
+    color: white;
+    padding: 20px;
+    margin-top: -400px;
+}
